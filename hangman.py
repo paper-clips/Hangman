@@ -90,7 +90,7 @@ print('\n               THE HANGMAN GAME')
 # The word or phrase that the player will guess
 # Input should be only lowercase letters (can include space):
 #secretPhrase = input(">>What is the secret phrase or word? Input should be only lowercase letters (can include space):")
-secretPhrase = "A Series of Unfortunate Events"     #  NOTE: Can change to another phrase/word
+secretPhrase = "A Series of Unfortunate Events"     #  NOTE: Can change the secret phrase to another phrase/word
 actualSecretPhrase = secretPhrase
 secretPhrase = secretPhrase.lower()     # Turn phrase into lowercase, to verify word/phrase
 
